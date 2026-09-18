@@ -2,7 +2,7 @@
 
 **Sr. Product Manager · Agile Dev Team Lead · Researcher · Analyst · Product Marketer & Advocate**
 
-> Product Seasoned, action-oriented, and empathetic product manager with hands-on experience building B2B & B2B2C SaaS products for startups, SMEs, and enterprises. I’m skilled in shaping and owning product strategy end-to-end, navigating uncertainty, and leading software teams. I combine product management and product marketing expertise with technical aptitude, bridging the gap between engineering and business stakeholders. I apply AI tools and agentic AI to automate and facilitate product research, experimentation, prototyping, and decision-making. I’m passionate about building scalable software that solves real problems and delivers measurable value to business and users.~
+> Seasoned, action-oriented, and analytical  product manager with hands-on experience building B2B & B2B2C SaaS products for startups, SMEs, and enterprises. I’m skilled in shaping and owning product strategy end-to-end, navigating uncertainty, and leading software teams. I combine product management and product marketing expertise with technical aptitude, bridging the gap between engineering and business stakeholders. I apply AI tools and agentic AI to automate and facilitate product research, experimentation, prototyping, and decision-making. I’m passionate about building scalable software that solves real problems and delivers measurable value to business and users.~
 
 - **🏡 Originally from** the city of the white nights and open bridges - Saint Petersburg. Currently living in Gothenburg, Sweden. Ready to explore Stockholm. 
 - **🥼 Most experienced in** B2B SaaS, enterprise software, CRM, telecom, cybersecurity, and compliance-driven products.
@@ -25,13 +25,15 @@
     - Prioritization, scoping, and driving alignment and adoption
     - Problem-solving, analytical thinking, and design thinking
     - Stakeholder communication and cross-functional collaboration
+    - AI vibecoding, prototyping, research & discovery
+
 
 ### Technical
 
     - Data Analysis with Python and SQL
     - API specifications (SOAP/XML, REST/JSON)
     - UML/BPMN notations
-    - AI vibecoding, prototyping, research & discovery
+    - AI agentic flows, AI harnesses, Agent skills, Tools
     - System UI/UX Design Fundamentals
     - Jira space administration
 
@@ -44,7 +46,7 @@
     - Hotjar
     - LookerStudio
     - Postman, Swagger
-    - VS Code, n8n, Lovable, AI CLIs
+    - VS Code, n8n, Lovable, AI CLIs, Claude Code, Codex, Lovable
     - ActiveCampaign
     - Zapier
     - Draw.io, Axure, Balsamiq
