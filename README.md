@@ -1,6 +1,6 @@
 ## Hi there, I'm Petr 👋
 
-**Sr. Product Manager · Agile Dev Team Lead · Researcher · Analyst · Product Marketer & Advocate**
+**AI-native Product Manager · Agile Dev Team Lead · Researcher · Analyst · Product Marketer & Product Advocate**
 
 > Seasoned, action-oriented, and analytical  product manager with hands-on experience building B2B & B2B2C SaaS products for startups, SMEs, and enterprises. I’m skilled in shaping and owning product strategy end-to-end, navigating uncertainty, and leading software teams. I combine product management, product marketing, and business analysis expertise with technical aptitude, bridging the gap between engineering and business stakeholders. I apply AI tools and agentic workflows to automate and facilitate product research, experimentation, prototyping, and decision-making. I’m passionate about building scalable software that solves real problems and delivers measurable value to business and users.
 
