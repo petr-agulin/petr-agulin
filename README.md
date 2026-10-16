@@ -2,7 +2,7 @@
 
 **AI-native Product Manager · Agile Dev Team Lead · Researcher · Analyst · Product Marketer & Product Advocate**
 
-> Seasoned, action-oriented, and analytical  product manager with hands-on experience building B2B & B2B2C SaaS products for startups, SMEs, and enterprises. I’m skilled in shaping and owning product strategy end-to-end, navigating uncertainty, and leading software teams. I combine product management, product marketing, and business analysis expertise with technical aptitude, bridging the gap between engineering and business stakeholders. I apply AI tools and agentic workflows to automate and facilitate product research, experimentation, prototyping, and decision-making. I’m passionate about building scalable software that solves real problems and delivers measurable value to business and users.
+> Seasoned, action-oriented, and analytical product manager with hands-on experience building B2B & B2B2C SaaS products for startups, SMEs, and enterprises. I’m skilled in shaping and owning product strategy end-to-end, navigating uncertainty, and leading software teams. I combine product management, product marketing, and business analysis expertise with technical aptitude, bridging the gap between engineering and business stakeholders. I apply AI tools and agentic workflows to automate and facilitate product research, experimentation, prototyping, and decision-making. I’m passionate about building scalable software that solves real problems and delivers measurable value to business and users.
 
 - **🏡 Originally from** the city of the white nights and open bridges - Saint Petersburg. Been living in Sweden for the past 4 years. Currently located in Gothenburg but ready to explore Stockholm. 
 - **🥼 Most experienced in** B2B SaaS, enterprise software, CRM, telecom, cybersecurity, and compliance-driven products.
@@ -10,10 +10,11 @@
 
 ## 🏆 Key Highlights
 - Launched an MVP for LLM-based extraction of unstructured invoice data, replacing manual ESG workflows with scalable automation
-- Evolved the Customer Self-Service product domain from isolated and segmented initiatives to wholistic vision and plan, owning the roadmap and aligning multiple teams around clear priorities and delivery
+- Evolved the Customer Self-Service product domain from isolated and segmented initiatives to a holistic vision and plan, owning the roadmap and aligning multiple teams around clear priorities and delivery
 - Delivered and launched SaaS products and features across UCaaS, CRM, and legal tech, taking them from discovery to market and revenue flows
 - Established and scaled product development practices, improving delivery predictability and team performance
 - Drove product decisions through research, experimentation, and data, consistently turning insights into shipped outcomes
+- Launched "ParkRead Sweden" - a Mobile-first PWA that reads a photo of a Swedish parking sign with its additional plates and explains in plain language whether you can park, when, and for how long. 
 
 ## 🎸 Key Skills
 
@@ -77,8 +78,9 @@
 
 
 ## 💼 Currently 
-Product Manager at Telavox (customer self-service product domain), UCaaS/PBX
+Looking for my next role as a Product Manager in B2B software, both SaaS and installable products.
 
 ## 🥽 Explore more
 - [LinkedIn](https://www.linkedin.com/in/petragulin/)
 - [AI-enabled resume on Render](https://resume-ai-personal.onrender.com/)
+- [ParkRead Sweden (open from Mobile)](https://parkread-sweden.pages.dev/)
