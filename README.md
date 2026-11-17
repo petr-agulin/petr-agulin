@@ -1,6 +1,6 @@
 ## Hi there, I'm Petr 👋
 
-**AI-native Product Manager · Agile Dev Team Lead · Researcher · Analyst · Product Marketer & Product Advocate**
+**Product Manager · Agile Dev Team Lead · Researcher · Analyst · Product Marketer & Product Advocate**
 
 > Seasoned, action-oriented, and analytical product manager with hands-on experience building B2B & B2B2C SaaS products for startups, SMEs, and enterprises. I’m skilled in shaping and owning product strategy end-to-end, navigating uncertainty, and leading software teams. I combine product management, product marketing, and business analysis expertise with technical aptitude, bridging the gap between engineering and business stakeholders. I apply AI tools and agentic workflows to automate and facilitate product research, experimentation, prototyping, and decision-making. I’m passionate about building scalable software that solves real problems and delivers measurable value to business and users.
 
@@ -20,20 +20,35 @@
 
 ### Product Management
 
-    - Product strategy and roadmap ownership aligned with business goals and user needs
-    - Product discovery and research (qualitative, quantitative, competitive, regulatory)
-    - Prototyping and testing ideas with AI and low-code/no-code tools to validate product assumptions
-    - Prioritization, scoping, and driving alignment and adoption
-    - Problem-solving, analytical thinking, and design thinking
-    - Stakeholder communication and cross-functional collaboration
+    - Product strategy, vision and roadmap ownership for B2B SaaS domains
+    - Product discovery: customer, partner, market, competitive and regulatory research
+    - Prioritization and scoping: MVP definition, trade-offs and roadmap bets
+    - Outcome-driven delivery: OKRs, desired outcomes, success metrics, A/B and multivariate testing
+    - Go-to-market: positioning, launches, pricing and packaging, sales enablement, and marketing collateral
+    - Platform and API products: roadmap, governance and developer experience
+    - Fast validation with AI prototypes and low-code/no-code tools
+
+### AI
+
+    - Spec-driven development with AI agents
+    - Agentic workflows, tool use & MCP
+    - Prompt & context engineering
+    - Reusable AI skills
+    - Human-in-the-loop review of AI output
+    - Grounding (RAG), guardrails, structured outputs
+    - Vision, speech & reasoning models
+    - Model selection, token cost & rate limits
 
 ### Technical
 
-    - Agentic workflows, AI harnesses, LLMs, Tools & MCPs
-    - Data Analysis with Python and SQL
-    - API specifications (SOAP/XML, REST/JSON)
-    - UML/BPMN notations
+    - Systems analysis & requirements engineering
+    - Data analysis (SQL, Python)
+    - API design & specs (REST/JSON, SOAP/XML)
+    - Process & system modelling (BPMN, UML)
     - System UI/UX Design Fundamentals
+    - Wireframing & UX prototyping
+    - Product analytics & dashboards (Looker Studio, Hotjar)
+    - Workflow automation & integrations (n8n, Zapier)
     - Jira space administration
 
 ### Tools
@@ -41,8 +56,7 @@
     - VS Code, Codex, Lovable, Claude Code, n8n, GitHub
     - Jira, ClickUp, Asana, Trello
     - Confluence, Notion, Google Docs
-    - Figma, FigmaJam, Miro
-    - Productboard & DoveTail
+    - Figma, FigJam, Miro
     - Hotjar
     - LookerStudio
     - Postman, Swagger
@@ -82,5 +96,5 @@ Looking for my next role as a Product Manager in B2B software, both SaaS and ins
 
 ## 🥽 Explore more
 - [LinkedIn](https://www.linkedin.com/in/petragulin/)
-- [AI-enabled resume on Render](https://resume-ai-personal.onrender.com/)
+- [AI-enabled resume with AI job fit analysis](https://personal-ai-resume.build-lab.workers.dev/)
 - [ParkRead Sweden (open from Mobile)](https://parkread-sweden.pages.dev/)
