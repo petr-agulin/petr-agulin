@@ -2,11 +2,12 @@
 
 **Product Manager · Agile Dev Team Lead · Researcher · Analyst · Product Marketer & Product Advocate**
 
-> Seasoned, action-oriented, and analytical product manager with hands-on experience building B2B & B2B2C SaaS products for startups, SMEs, and enterprises. I’m skilled in shaping and owning product strategy end-to-end, navigating uncertainty, and leading software teams. I combine product management, product marketing, and business analysis expertise with technical aptitude, bridging the gap between engineering and business stakeholders. I apply AI tools and agentic workflows to automate and facilitate product research, experimentation, prototyping, and decision-making. I’m passionate about building scalable software that solves real problems and delivers measurable value to business and users.
+> Seasoned, action-oriented, and analytical product manager with hands-on experience building B2B & B2B2C SaaS products for startups, SMEs, and enterprises. I’m skilled at shaping and owning product strategy end-to-end, navigating uncertainty, and leading software teams. I combine product management, product marketing, and business analysis expertise with technical aptitude to bridge the gap between engineering and business stakeholders. I apply AI tools and agentic workflows to automate and facilitate product research, experimentation, prototyping, and decision-making. I’m passionate about building scalable software that solves real problems and delivers measurable value to business and users.
 
 - **🏡 Originally from** the city of the white nights and open bridges - Saint Petersburg. Been living in Sweden for the past 4 years. Currently located in Gothenburg but ready to explore Stockholm. 
 - **🥼 Most experienced in** B2B SaaS, enterprise software, CRM, telecom, cybersecurity, and compliance-driven products.
 - **🌱 Inspired by** sustainability, green technology, energy innovation, and education-focused solutions.
+- **🐱‍👤 [My AI resume](https://personal-ai-resume.build-lab.workers.dev/)**
 
 ## 🏆 Key Highlights
 - Launched an MVP for LLM-based extraction of unstructured invoice data, replacing manual ESG workflows with scalable automation
@@ -97,4 +98,5 @@ Looking for my next role as a Product Manager in B2B software, both SaaS and ins
 ## 🥽 Explore more
 - [LinkedIn](https://www.linkedin.com/in/petragulin/)
 - [AI-enabled resume with AI job fit analysis](https://personal-ai-resume.build-lab.workers.dev/)
-- [ParkRead Sweden (open from Mobile)](https://parkread-sweden.pages.dev/)
+- [ParkRead Sweden](https://parkread-sweden.pages.dev/)
+- [LomoSapiens](https://lomosapiens.pages.dev/)
